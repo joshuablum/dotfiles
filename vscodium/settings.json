@@ -1,0 +1,26 @@
+{
+    "terminal.explorerKind": "external",
+    "terminal.external.osxExec": "iTerm.app",
+    "workbench.colorTheme": "Nord",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showTabs": true,
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.filePath": "off",
+    "breadcrumbs.symbolPath": "off",
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": false,
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 80,
+    "editor.lineNumbers": "off",
+    "editor.fontFamily": "Operator Mono",
+    "editor.fontSize": 18,
+    "files.associations": {
+        "*.module": "php"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    }
+}

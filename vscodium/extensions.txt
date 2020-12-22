@@ -1,0 +1,13 @@
+arcticicestudio.nord-visual-studio-code
+bmewburn.vscode-intelephense-client
+bradlc.vscode-tailwindcss
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+felixfbecker.php-debug
+felixfbecker.php-intellisense
+felixfbecker.php-pack
+HookyQR.beautify
+ms-python.python
+onecentlin.laravel-blade
+ritwickdey.LiveServer
+shufo.vscode-blade-formatter
