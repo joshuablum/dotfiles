@@ -1,0 +1,6 @@
+alias art="php artisan"
+alias pls="php please"
+alias cu="composer update"
+alias rm="trash"
+alias rf="trash -rf"
+alias cwd="pwd && pwd | pbcopy && echo 'Copied to clipboard ✔'"
