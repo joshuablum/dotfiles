@@ -1,0 +1,4 @@
+name: 'Example User'
+super: true
+id: b5c6ae6e-9cb8-4340-8d10-87452f772de5
+password: password # get's hashed at first login
