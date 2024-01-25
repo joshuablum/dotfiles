@@ -1,0 +1,12 @@
+{
+	"require": {
+		"beyondcode/expose": "^2.6.2"
+		"laravel/installer": "^5.0.4",
+		"laravel/pint": "^1.11",
+		"laravel/valet": "^4.1.4",
+		"spatie/global-ray": "^1.0",
+		"statamic/cli": "^3.0",
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
